@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HEMANTHKUARMB</h1>
+<h1 align="center">Hi 👋, I'm HEMANTH KUMAR MB</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **PYTHON,JAVA,FLUTER**
